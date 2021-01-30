@@ -4,3 +4,6 @@ srank university video demonstration
 https://drive.google.com/file/d/15NtS4ThXY4JUqMqB87ULxlThG7j6t3uX/view?usp=sharing
 website live link
 http://127.0.0.1:81/wordpress/careers/
+0hz.d2e.myftpupload.com - godaddy hosting link
+
+
